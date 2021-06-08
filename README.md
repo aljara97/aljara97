@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Soy Antonio Jara Rozas, estudio Ingeniería Civil Industrial con diploma en Tecnologías de Información en la UC
 <!--
 **aljara97/aljara97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
